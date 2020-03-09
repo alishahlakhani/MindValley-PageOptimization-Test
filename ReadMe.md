@@ -1,0 +1,8 @@
+-Fixed images paths
+-Moved all non essentials scrips to after body tag
+- if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above</script>
+- Added intersection observer for images (https://web.dev/codelab-use-lazysizes-to-lazyload-images/)
+-Added no referer to blank links
+-Defered non essential scripts to after page load
+-Cleaned up empty ids
+-Replace html elements with same ids to class name

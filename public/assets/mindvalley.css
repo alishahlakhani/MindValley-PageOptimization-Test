@@ -1,0 +1,63 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3372485, 2017-04-11T06:56:18-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Gilroy-Regular by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/regular/
+ * Copyright: Copyright &#x00A9; 2016 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Gilroy-RegularItalic by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/regular-italic/
+ * Copyright: Copyright &#x00A9; 2015 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Gilroy-MediumItalic by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/medium-italic/
+ * Copyright: Copyright &#x00A9; 2015 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Gilroy-Medium by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/medium/
+ * Copyright: Copyright &#x00A9; 2016 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Gilroy-BoldItalic by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/bold-italic/
+ * Copyright: Copyright &#x00A9; 2015 by Radomir Tinkov. All rights reserved.
+ * 
+ * Webfont: Gilroy-Bold by Radomir Tinkov
+ * URL: http://www.myfonts.com/fonts/radomir-tinkov/gilroy/bold/
+ * Copyright: Copyright &#x00A9; 2016 by Radomir Tinkov. All rights reserved.
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3372485
+ * Licensed pageviews: 1,100,000
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3375c5");
+
+  
+@font-face {font-family: 'Gilroy-Regular';src: url('webfonts/3375C5_0_0.eot');src: url('webfonts/3375C5_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_0_0.woff2') format('woff2'),url('webfonts/3375C5_0_0.woff') format('woff'),url('webfonts/3375C5_0_0.ttf') format('truetype'),url('webfonts/3375C5_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Gilroy-RegularItalic';src: url('webfonts/3375C5_1_0.eot');src: url('webfonts/3375C5_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_1_0.woff2') format('woff2'),url('webfonts/3375C5_1_0.woff') format('woff'),url('webfonts/3375C5_1_0.ttf') format('truetype'),url('webfonts/3375C5_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Gilroy-MediumItalic';src: url('webfonts/3375C5_2_0.eot');src: url('webfonts/3375C5_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_2_0.woff2') format('woff2'),url('webfonts/3375C5_2_0.woff') format('woff'),url('webfonts/3375C5_2_0.ttf') format('truetype'),url('webfonts/3375C5_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Gilroy-Medium';src: url('webfonts/3375C5_3_0.eot');src: url('webfonts/3375C5_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_3_0.woff2') format('woff2'),url('webfonts/3375C5_3_0.woff') format('woff'),url('webfonts/3375C5_3_0.ttf') format('truetype'),url('webfonts/3375C5_3_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Gilroy-BoldItalic';src: url('webfonts/3375C5_4_0.eot');src: url('webfonts/3375C5_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_4_0.woff2') format('woff2'),url('webfonts/3375C5_4_0.woff') format('woff'),url('webfonts/3375C5_4_0.ttf') format('truetype'),url('webfonts/3375C5_4_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'Gilroy-Bold';src: url('webfonts/3375C5_5_0.eot');src: url('webfonts/3375C5_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/3375C5_5_0.woff2') format('woff2'),url('webfonts/3375C5_5_0.woff') format('woff'),url('webfonts/3375C5_5_0.ttf') format('truetype'),url('webfonts/3375C5_5_0.svg#wf') format('svg');}
+ 
